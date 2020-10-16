@@ -9,7 +9,7 @@ if "%1"=="12"	goto :q12
 if "%1"=="22"	goto :q22
 if "%1"=="112"	goto :q112
 if "%1"=="122"	goto :q122
-if "%1"=="1122	goto :q1122
+if "%1"=="1122"	goto :q1122
 goto :eof
 
 
